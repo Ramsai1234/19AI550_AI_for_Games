@@ -267,25 +267,11 @@ pygame.quit()
 ### Output:
 
 
-```
-![image](https://github.com/user-attachments/assets/b82ed387-92ed-47e8-ad81-07d187e7e353)
 
-![image](https://github.com/user-attachments/assets/d52af206-298d-498c-b9b3-01f8622ec584)
-
-````
+![a](https://github.com/user-attachments/assets/e81a7191-67b6-483a-884c-bcd064e2a1e3)
+![b](https://github.com/user-attachments/assets/3f151ed9-4f0d-4e27-80aa-a1849b79610e)
 
 ## Result:
 The AI car racing game uses Q-learning to train the AI to dodge obstacles while the player manually controls their own car to avoid collisions.
 
 
-
-
-
-
-
-
-
-
-
-### Result:
-Thus the simple  game was implemented using .......................
