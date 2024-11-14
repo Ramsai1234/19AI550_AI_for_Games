@@ -1,6 +1,6 @@
 
 # Ex.No: 11  Mini Project 
-DATE: 10/412024                                                                           
+DATE: 25/10/2024                                                                           
 REGISTER NUMBER : 212221240041
 ### AIM: 
 The aim of this project is to create an AI-powered car racing game where the player and an AI-controlled car avoid obstacles (bombs) 
