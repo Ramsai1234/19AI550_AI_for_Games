@@ -1,5 +1,5 @@
 # Ex.No: 10  Implementation of Negamax Search
-### DATE: 03/10/2024                                                                           
+### DATE: 18/10/2024                                                                           
 ### REGISTER NUMBER : 212221240041
 ### AIM: 
 Write a Nega-max search algorithm to find the root value of Player from the  graph.
